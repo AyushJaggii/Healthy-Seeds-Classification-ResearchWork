@@ -1,6 +1,6 @@
 chia
 flax
-seaseme
+sesame
 pumpkin
 sunflower
 watermelon
